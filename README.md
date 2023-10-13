@@ -6,7 +6,7 @@
 
 - 📃 Técnico em Desenvolvimento de Sistemas - ETE Miguel Batista.
 
-(🔍 Focandos nos estudos em Java.)
+(🔍 Se aprofundando na Linguagem Java.)
 
 ##
 Conhecimentos em:
