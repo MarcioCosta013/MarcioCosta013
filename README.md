@@ -1,12 +1,11 @@
 <h2> Bem-Vindo ao Meu Repositório! </h2>
 
-- 👨🏿‍💻 Estou começando agora nos meus estudos na Área de Desenvolvimento.
+- 👨🏿‍💻 Desenvolvimento FullStack.
 
 - 📚 Cursando Análise e Desenvolvimento de Sistemas - UNINASSAU (4°/5° períodos).
 
 - 📃 Técnico em Desenvolvimento de Sistemas - ETE Miguel Batista.
 
-(🔍 Se aprofundando na Linguagem Java.)
 
 ##
 Conhecimentos em:
