@@ -2,7 +2,7 @@
 
 - 👨🏿‍💻 Estou começando agora nos meus estudos na Área de Desenvolvimento.
 
-- 📚 Cursando Análise e Desenvolvimento de Sistemas - UNINASSAU (3/5).
+- 📚 Cursando Análise e Desenvolvimento de Sistemas - UNINASSAU (4°/5° períodos).
 
 - 📃 Técnico em Desenvolvimento de Sistemas - ETE Miguel Batista.
 
