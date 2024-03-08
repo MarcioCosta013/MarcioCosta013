@@ -1,6 +1,6 @@
 <h2> Bem-Vindo ao Meu Repositório! </h2>
 
-- 👨🏿‍💻 Desenvolvimento FullStack.
+- 👨🏿‍💻 Desenvolvimento Back-end.
 
 - 📚 Cursando Análise e Desenvolvimento de Sistemas - UNINASSAU (4°/5° períodos).
 
