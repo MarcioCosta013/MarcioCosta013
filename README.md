@@ -2,7 +2,7 @@
 
 - 👨🏿‍💻 Desenvolvimento Back-end.
 
-- 📚 Cursando Análise e Desenvolvimento de Sistemas - UNINASSAU.
+- 📚 Análise e Desenvolvimento de Sistemas - UNINASSAU.(2024)
 
 - 📃 Técnico em Desenvolvimento de Sistemas - ETE Miguel Batista.(2018)
 
