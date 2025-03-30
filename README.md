@@ -1,13 +1,15 @@
-<h1> Bem-Vindo ao Meu Repositório! </h1>
+<h1 align="center" style="font-weight: bold;"> Bem-Vindo ao Meu Repositório! 💻</h1>
 
-- 📚 Análise e Desenvolvimento de Sistemas - UNINASSAU.(2024)
+- 📚 Engenharia de Software(Cursando) - Estácio.(2029)
 
-- 📃 Técnico em Desenvolvimento de Sistemas - ETE Miguel Batista.(2018)
+- 📚 Análise e Desenvolvimento de Sistemas(Concluido) - UNINASSAU.(2024)
+
+- 📃 Técnico em Desenvolvimento de Sistemas(Comcluido) - ETE Miguel Batista.(2018)
 
 
 ##
-Habilidades em:
-<div style="display: inline_block"><br>
+<p align="center"> Habilidades em: </p>
+<div align="center" style="display: inline_block"><br>
   <img align="center" alt="Marcio-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="Marcio-Spring" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" />
   <img align="center" alt="Marcio-MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
@@ -18,13 +20,12 @@ Habilidades em:
   <img align="center" alt="Marcio-JS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
   <img align="center" alt="Marcio-Angular" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg">
   <img align="center" alt="Marcio-React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg">
-  <img align="center" alt="Marcio-Postman" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg">
 </div>
 
 
 ##
-Conecte-se comigo:
-<div>
+<p  align="center"> Conecte-se comigo: </p>
+<div  align="center">
   <a href="https://www.linkedin.com/in/marcio-jcosta/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:marciocbjr.costa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/marcio_costa013" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
