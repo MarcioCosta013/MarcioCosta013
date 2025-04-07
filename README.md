@@ -1,11 +1,24 @@
+<!-- Parte superior da página -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=f69512&height=120&section=header"/>
+
 <h1 align="center" style="font-weight: bold;"> Bem-Vindo ao Meu Repositório! 💻</h1>
 
-- 📚 Engenharia de Software(Cursando) - Estácio.(2029)
+<div align="center">
+  <a href="https://github.com/MarcioCosta013">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcioCosta013&theme=react&hide_border=false&include_all_commits=false&count_private=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcioCosta013&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+</div>
 
-- 📚 Análise e Desenvolvimento de Sistemas(Concluido) - UNINASSAU.(2024)
+<p align="center">
+  <h3 align="center"> Formação: </h3>
+  
+  - 📚 Engenharia de Software(Cursando) - Estácio.(2029) ⏳
 
-- 📃 Técnico em Desenvolvimento de Sistemas(Comcluido) - ETE Miguel Batista.(2018)
+  - 📚 Análise e Desenvolvimento de Sistemas(Concluido) - UNINASSAU.(2024) ✅
 
+  - 📃 Técnico em Desenvolvimento de Sistemas(Comcluido) - ETE Miguel Batista.(2018) ✅
+    
+</p>
 
 ##
 <p align="center"> Habilidades em: </p>
@@ -23,6 +36,15 @@
 </div>
 
 
+<!-- Contador de Visitantes -->
+<br><br>
+<div align="center">
+  <br><p align="center"><b>Quantidade de visitantes</b></p>  
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{MarcioCosta013}/count.svg" /></p> 
+  <br>
+</div>
+
+
 ##
 <p  align="center"> Conecte-se comigo: </p>
 <div  align="center">
@@ -34,3 +56,6 @@
 
 ##
 
+<!-- Parte inferior da página -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=f69512&height=120&section=footer"/>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
