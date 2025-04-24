@@ -1,7 +1,7 @@
 <!-- Parte superior da página -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=f69512&height=120&section=header"/>
 
-<h1 align="center" style="font-weight: bold;"> Bem-Vindo ao Meu Repositório! 💻</h1>
+<h1 align="center" style="font-weight: bold;"> Bem-Vindo ao Meu Repositório! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"></h1>
 
 <div align="center">
   <a href="https://github.com/MarcioCosta013">
