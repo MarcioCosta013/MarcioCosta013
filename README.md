@@ -37,15 +37,6 @@
 </div>
 
 
-<!-- Contador de Visitantes -->
-<br><br>
-<div align="center">
-  <br><p align="center"><b>Quantidade de visitantes</b></p>  
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{MarcioCosta013}/count.svg" /></p> 
-  <br>
-</div>
-
-
 ##
 <p  align="center"> Conecte-se comigo: </p>
 <div  align="center">
