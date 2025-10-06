@@ -11,8 +11,6 @@
 
 <p align="center">
   <h3 align="center"> Formação: </h3>
-  
-  - 📚 Engenharia de Software(Cursando) - Estácio.(2029) ⏳
 
   - 📚 Análise e Desenvolvimento de Sistemas(Concluido) - UNINASSAU.(2024) ✅
 
