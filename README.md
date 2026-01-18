@@ -3,11 +3,6 @@
 
 <h1 align="center" style="font-weight: bold;"> Bem-Vindo ao Meu Repositório! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"></h1>
 
-<div align="center">
-  <a href="https://github.com/MarcioCosta013">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcioCosta013&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
-</div>
-
 <p align="center">
   <h3 align="center"> Formação: </h3>
 
