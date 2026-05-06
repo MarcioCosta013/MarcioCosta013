@@ -39,14 +39,14 @@
 ##
   <h3 align="center"> Cursos Complementares: </h3>
 
-  - FullStack Developer com **.NET + React** (79hr/Aula)
-  - FullStack com **Java + Angular** (67hr/Aula)
-  - Back-end com **.NET + IA** (84hr/Aula)
-  - Back-end com **Java & QA** (64hr/Aula)
-  - Back-end com **Java** (87hr/Aula)
-  - Microsoft Azure AI Fundamentals (35hr/Aula)
-  - Banco de Dados **MySQL** (40hr/Aula)
-  - Programação Orientada a Objetos em **Java** (40hr/Aula)
+  - FullStack Developer com **.NET + React** ( 79hr/Aula )
+  - FullStack com **Java + Angular** ( 67hr/Aula )
+  - Back-end com **.NET + IA** ( 84hr/Aula )
+  - Back-end com **Java & QA** ( 64hr/Aula )
+  - Back-end com **Java** ( 87hr/Aula )
+  - Microsoft Azure AI Fundamentals ( 35hr/Aula )
+  - Banco de Dados **MySQL** ( 40hr/Aula )
+  - Programação Orientada a Objetos em **Java** ( 40hr/Aula )
 </p>
 
 ##
